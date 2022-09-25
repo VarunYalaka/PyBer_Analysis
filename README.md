@@ -40,6 +40,13 @@ Total Fare by City Type graph:
 
 ![Screen Shot 2022-09-25 at 1 26 07 AM](https://user-images.githubusercontent.com/44387918/192135960-3e0d831c-5f50-4eec-a30d-aa15a7901382.png)
 
-## Conclusion
+## Summary:
 Highest revenue in urban cities and lowest in rural areas. Revenue is steady and no significant change between Jan’ 2019 to May’2019. 
-Average fare per ride is more in rural areas because of the low total rides. Observed average fare per driver is more in rural areas but that's not significant help for drivers due to low volume of total rides. There’s no data related to refused rides at this stage to add more drivers in the rural area.  
+Average fare per ride is more in rural areas because of the low total rides. 
+
+Recommendations: 
+1. Observed average fare per driver is more in rural areas but that's not significant help for drivers due to low volume of total rides. Slight decrease in the average fare may help in increase the ride count.   
+
+2. There’s no data related to refused rides at this stage. The data would be useful to take a decision to add more drivers in the rural areas.  
+
+3. Based on the data, adding more drivers in suburbs may increase the total ride count. Because the average Fare per Ride is not significantly high.  
