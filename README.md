@@ -22,7 +22,9 @@ Merged “City_data” and “Ride_data” datasets using the common column “C
 Obtaining fare and driver data from the data set needs some average calculation i.e sum of fare divided by total rides grouping by type of city.  Once we have the average fare per ride and driver, created a data frame based on the type of city. I.e Rural, Suburban and Urban. 
  
 ### Analysis Results: 
-Derived Pyber_summary data frame, once we have Rides, Drivers and Fares related data.   
+Derived Pyber_summary data frame, once we have Rides, Drivers and Fares related data based on the different city types (Urban, Suburban and Rural).   
+
+Observed total rides and fares are more in urban. 
 
 ![Screen Shot 2022-09-25 at 1 26 52 AM](https://user-images.githubusercontent.com/44387918/192135930-fbc65203-20a1-4697-9752-96e763352588.png)
 
